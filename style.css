@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+h1 {
+    font-size: 26px;
+    color: black;
+    margin: 20px;
+}
+p {
+    text-align: justify;
+    color: black;
+    margin: 20px;
+}
+img {
+    border-style: solid;
+    border-color: #0d3e40;
+}
